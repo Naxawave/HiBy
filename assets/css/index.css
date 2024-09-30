@@ -24,7 +24,7 @@
 .videoToolbar{
     background-color: var(--first-color-shape);
     display: flex;
-    padding: 6px;
+    padding: 18px;
     align-items: center;
     border-radius: 4px 4px 15px 15px;
 }
@@ -47,7 +47,8 @@
 .interactiveButton{
     margin-left: auto;
 }
- .interactiveButton button{
+
+.interactiveButton button{
     padding: 6px 18px;
     text-align: center;
     border-radius: 50px;
@@ -104,7 +105,7 @@
 
 .carousel-container {
     width: 100%;
-    height: 26vh;
+    height: 24vh;
     overflow: hidden;
     position: relative;
 }
@@ -144,7 +145,7 @@
 .courseTitle {
     font-size: 12px;
     color: var(--card-text-color);
-    margin: 0;
+    margin: auto;
 }
 
 .startButton {
@@ -154,7 +155,7 @@
     border-radius: 50px;
     padding: 6px 20px;
     text-decoration: none;
-    margin-top: 10px;
+    margin-top: 25%;
     transition: background-color 0.3s ease;
 }
 
@@ -203,7 +204,7 @@
     background: var(--first-color-shape);
     display: flex;
     align-items: center;
-    padding: 16px;
+    padding: 22px;
     color: var(--card-text-color);
 }
 
