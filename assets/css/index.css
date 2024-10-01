@@ -41,7 +41,7 @@
 
 .informationVideo{
     color: var(--card-text-color);
-    font-size: 12px;
+    font-size: 16px;
     width: 56%;
 }
 .interactiveButton{
@@ -49,7 +49,7 @@
 }
 
 .interactiveButton button{
-    padding: 6px 18px;
+    padding: 8px 20px;
     text-align: center;
     border-radius: 50px;
     border: none;
@@ -80,7 +80,7 @@
 }
 
 .toolbarVideoInformation button{
-    padding: 4px 16px;
+    padding: 8px 20px;
     text-align: center;
     border-radius: 50px;
     border: none;
@@ -91,7 +91,7 @@
 
 .videoDescription{
     padding: 12px;
-    font-size: 12px;
+    font-size: 14px;
     color: var(--card-text-color);
 }
 
@@ -143,7 +143,7 @@
 }
 
 .courseTitle {
-    font-size: 12px;
+    font-size: 18px;
     color: var(--card-text-color);
     margin: auto;
 }
@@ -155,7 +155,7 @@
     border-radius: 50px;
     padding: 6px 20px;
     text-decoration: none;
-    margin-top: 25%;
+    margin-top: 16%;
     transition: background-color 0.3s ease;
 }
 
